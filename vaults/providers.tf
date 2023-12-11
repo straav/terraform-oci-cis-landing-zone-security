@@ -9,7 +9,6 @@ terraform {
       configuration_aliases = [ oci, oci.home ] 
     }
   }
-  experiments = [module_variable_optional_attrs]
 }
 
 
